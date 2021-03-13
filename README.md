@@ -1,6 +1,6 @@
 # Deteccion-de-imagenes
 
-### Descripcion
+### Descripción
 
 El proyecto consiste en el desarrollo de un sistema de identificación de cartas, a partir de la obtención de las características y la comparación de estas con la de diferentes objetos.
 
